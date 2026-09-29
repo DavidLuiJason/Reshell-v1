@@ -1,0 +1,6 @@
+{
+  "name": "Reshell",
+  "description": "A professional, task-oriented project workbench for acquiring, inspecting, operating on, and verifying software projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
